@@ -1,0 +1,13 @@
+Create a virtual env: 
+virtualenv flask
+move to virtualenv : 
+cd flask
+activate virtualenv:
+source bin/activate
+now you should see (flask) on the left of the command line. Install flask
+pip install flask
+Create python file
+run python file
+
+Rest of the tutorials from here
+https://dzone.com/articles/restful-web-services-with-python-flask
