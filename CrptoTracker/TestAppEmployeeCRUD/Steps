@@ -1,3 +1,4 @@
+#refer to virtual env here http://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv
 Create a virtual env: 
 virtualenv flask
 move to virtualenv : 
